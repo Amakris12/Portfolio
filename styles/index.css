@@ -1,0 +1,104 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+div{
+    border: #450000 .5rem groove;
+    background-color: none;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#id1{
+    border: #450000 .5rem groove;
+    background-color: none;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    position: relative;
+    float: left;
+    left: 3rem;
+    bottom: -2rem;
+    width: 10rem;
+    height: 10rem;
+}
+#right{
+    position: relative;
+    float: right;
+    right: 5rem;
+    left: -3rem;
+    bottom: -2rem;
+    width: 12rem;
+    height: 10rem;
+}
+td{
+    border: #450000 .4rem groove ;
+    text-align: center;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+}
+#noborder{
+    border: none;
+    background-color: none;
+    width: 73%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#slideshow{
+    border: none;
+}
+#imgss{
+    float:none;
+    margin-right: auto;
+    margin-left: auto;
+    border: #450000 groove .3rem;
+    bottom: 0rem;
+    left: 13rem;
+    right: 0rem;
+    top: 0rem;
+    position: none;
+}
+#arrow{
+    position: relative;
+    float: left;
+    left: 41.9rem;
+    font-size: 2rem;
+    bottom: 3rem;
+    color: white;
+}
+#number{
+    border: none;
+    position: relative;
+    float: left;
+    left: 36.5rem;
+    width: 42rem;
+    font-size: 2rem;
+    color: white;
+}
+p{
+    color: white;
+    font-size: 1rem;
+}
+a{
+    color: white;
+}
+video{
+    position: relative;
+    float: left;
+    left: 3rem;
+    bottom: -2rem;
+    width: 12rem;
+    height: 10rem;
+}
+.flip{
+    image-orientation: 0deg;
+}
+#footer{
+    font-size:1rem;
+}

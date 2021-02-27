@@ -1,0 +1,182 @@
+@font-face{
+    font-family: oswald;
+    src: url(../font/Oswald-RegularItalic.ttf);
+}
+body{
+    font-family: oswald;
+}
+#div{
+    border: #450000 .5rem groove;
+    background-color: #450000 ;
+    opacity: .6;
+    width: 90rem;
+    height: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 3.5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+#h1{
+    position: relative;
+    left: 16rem;
+    font-size: 5rem;
+}
+td{
+    text-align: center;
+    color: white;
+    border: #450000 .5rem groove;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+}
+a{
+    color: white;
+}
+img{
+    position: relative;
+    float: left;
+    left: 3rem;
+    bottom: -2rem;
+    width: 14rem;
+    height: 10rem;
+}
+#right{
+    position: relative;
+    float: right;
+    right: 5rem;
+    left: -3rem;
+    bottom: -2rem;
+    width: 14rem;
+    height: 10rem;
+    
+}
+#smallborder{
+    width: 40rem;
+}
+#smalltext{
+    font-size: 2rem;
+}
+#left{
+        position: relative;
+        float: left;
+        left: 3rem;
+        width: 45rem;
+        height: 5rem;
+        background-color: #450000;
+        opacity: .5;
+        border: #450000 .5rem groove;
+}
+.clear{
+    clear: left;
+}
+#left2{
+    position: relative;
+        float: left;
+        left: 3rem;
+        width: 45rem;
+        height: 30rem;
+        top: .5rem;
+        background-color: #450000;
+    opacity: .5;
+    border: #450000 .5rem groove;
+}
+#right2{
+    position: relative;
+    float: right;
+    border: #450000 .5rem groove;
+    right: 5rem;
+    left: -3rem;
+    bottom: 4.7rem;
+    width: 40rem;
+    height: 35rem;
+    background-color: #450000;
+    opacity: .5;
+}
+#grid{
+    width: 34rem;
+    height: 27rem;
+    
+}
+#social{
+    position: absolute;
+    justify-content: center;
+    float: none;
+    left: 5rem;
+    bottom: 2rem;
+    width: 10rem;
+    height: 10rem;
+    border: .2rem groove #450000;
+    
+}
+#social1{
+    position: absolute;
+    justify-content: center;
+    float: none;
+    left: 55rem;
+    bottom: 2rem;
+    width: 10rem;
+    height: 10rem;
+    border: .2rem groove #450000;
+}
+#social2{
+    position: absolute;
+    justify-content: center;
+    float: none;
+    left: 21rem;
+    bottom: 2rem;
+    width: 10rem;
+    height: 10rem;
+    border: .2rem groove #450000;
+}
+#social3{
+    position: absolute;
+    justify-content: center;
+    float: none;
+    left: 38rem;
+    bottom: 2rem;
+    width: 10rem;
+    height: 10rem;
+    border: .2rem groove #450000;
+}
+#bot{
+    position: absolute;
+    top: 65rem;
+    left: 10rem;
+    width: 70rem;
+    height: 15rem;
+    background-color: #450000;
+    border: #450000 .5rem groove;
+    opacity: .5;
+}
+#word{
+    position: absolute;
+    bottom: -1rem;
+    left: 6.2rem;
+}
+#word2{
+    position: absolute;
+    bottom: -1rem;
+    left: 39.2rem;
+}
+#word3{
+    position: absolute;
+    bottom: -1rem;
+    left: 23.3rem;
+}
+#word4{
+    position: absolute;
+    bottom: -1rem;
+    left: 57.3rem;
+}
